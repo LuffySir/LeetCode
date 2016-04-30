@@ -1,5 +1,6 @@
 /**
- * Created by Lenovo on 2016/4/10.
+两数之和
+ *
  */
 public class TwoSum {
     public int[] sum(int[] nums, int target){
